@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 /parse/*
-.zip
+*.zip
 /stanford-corenlp-full-2015-12-09/*
